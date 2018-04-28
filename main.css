@@ -1,7 +1,8 @@
 .resume{
   background: lightblue;
-    border: 5px solid #fff;
+  border: 5px solid #fff;
   margin: 20px;
+  font-family: 'Lato', sans-serif;
 }
 
 .pic{
